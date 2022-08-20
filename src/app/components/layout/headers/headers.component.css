@@ -1,0 +1,32 @@
+header{
+    position: fixed;
+    top: 0px;
+   
+   }
+   
+   .bg{
+       background:  rgb(248, 50, 50) ;
+   }
+   
+   .a_color{
+   color: white;
+   }
+
+   .a_color:hover{
+color: black;
+   }
+
+.title{
+font-size: 30px;
+color: white;
+margin-right: 300px;
+}
+
+
+
+.img-fluid{
+    min-width: 100%;
+    min-height: 300px;
+    max-height: 500px;
+}
+

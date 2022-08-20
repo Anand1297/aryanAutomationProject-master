@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"Enternace Door Automation",
+        "shortDescritpion":"",
+        "img":""
+    },
+
+    {
+        "id":2,
+        "name":"Enternace Gate Automation",
+        "shortDescritpion":"",
+        "img":""
+    },
+    
+    {
+        "id":3,
+        "name":"Industrial Over Head Sectional Doors",
+        "shortDescritpion":"",
+        "img":""
+    },
+    
+    {
+        "id":4,
+        "name":"High Speed/PVC Rapid Roll up doors",
+        "shortDescritpion":"",
+        "img":""
+    },
+    {
+        "id":5,
+        "name":"Boom Barriers",
+        "shortDescritpion":"",
+        "img":""
+    },
+    {
+        "id":6,
+        "name":"Loading/Unloading Systems",
+        "shortDescritpion":"",
+        "img":""
+    }
+
+]

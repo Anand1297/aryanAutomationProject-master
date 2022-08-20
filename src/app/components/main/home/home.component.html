@@ -1,0 +1,17 @@
+<div class="container">
+<h1>Our Main Products</h1>
+
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mb-3 pb-3" id="card3"  *ngFor="let data of mainProducts">
+            <div class="card staticstyle" style="width: 18rem;">
+              <img src="assets/mainCarouselImages/no_image.png" class="card-img-top staticImg" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">{{data.name}}</h5>
+                <p class="card-text">{{data.shortDescritpion}}</p>
+                <button  class="card-btn">View Product</button>
+              </div>
+            </div>
+          </div>
+        </div>
+</div>
+
